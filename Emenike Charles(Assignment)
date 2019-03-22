@@ -1,0 +1,29 @@
+OBI, EMENIKE CHARLES ASSIGNMENT
+class Teacher
+{
+string [ ] certificate
+string  name
+string role
+string [ ] students_under_car
+}
+class car {
+string [ ] seats
+string colour
+string [] tyres
+string engine
+}
+class Animal
+{
+   string movement
+   string colour
+   string reproduction
+   string name
+}
+class country
+{
+  string [] people
+  string [] buildings
+  string map
+  string president
+  string[] government
+}
